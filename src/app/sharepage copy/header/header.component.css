@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+.bg-dark {
+    background-color: #2E2E2E!important;
+}
+.navbar-brand .nav-link{
+    font-family: 'Roboto Slab', serif;
+}
+.wrap{
+    background-color: #FFDE2E;
+}
+.colll {
+    color: black;
+}
+.fa-chevron-left:before {
+    content: "\f053";
+    color: black;
+}
+.fa-chevron-right:before {
+    content: "\f054";
+    color: black;
+}
